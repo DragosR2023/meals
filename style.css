@@ -1,0 +1,29 @@
+html    {
+    background-image: url('food.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    color: white;
+    text-align: center;
+}
+h1  {
+        font-style: italic;
+        font-size: 50px;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
